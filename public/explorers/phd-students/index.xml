@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD Students on Exploration Lab</title>
+    <link>https://exploration-lab.github.io/explorers/phd-students/</link>
+    <description>Recent content in PhD Students on Exploration Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://exploration-lab.github.io/explorers/phd-students/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abhinav Joshi</title>
+      <link>https://exploration-lab.github.io/explorers/phd-students/abhinav-joshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://exploration-lab.github.io/explorers/phd-students/abhinav-joshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divyaksh Shukla</title>
+      <link>https://exploration-lab.github.io/explorers/phd-students/divyaksh-shukla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://exploration-lab.github.io/explorers/phd-students/divyaksh-shukla/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

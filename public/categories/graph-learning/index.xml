@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graph learning on Exploration Lab</title>
+    <link>https://exploration-lab.github.io/categories/graph-learning/</link>
+    <description>Recent content in graph learning on Exploration Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://exploration-lab.github.io/categories/graph-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knowledge Graph</title>
+      <link>https://exploration-lab.github.io/research/knowledge-graph/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://exploration-lab.github.io/research/knowledge-graph/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at felis nec erat placerat sagittis. Phasellus eu neque sapien. Fusce lobortis ante quam, in scelerisque erat tincidunt id. Ut cursus finibus pellentesque. Vestibulum dapibus, augue vel dictum eleifend, nibh ipsum malesuada tellus, a vehicula dolor purus ac ex. Fusce vitae scelerisque arcu, in posuere nibh. Maecenas iaculis pretium felis eu scelerisque. Fusce pulvinar diam vitae arcu efficitur, malesuada tristique massa egestas. Donec nec nulla massa. Nam sodales suscipit nisl, vitae imperdiet est. Mauris vestibulum vehicula aliquam. Quisque volutpat fermentum arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis rutrum euismod pretium. Duis blandit et nibh vel sodales.</description>
+    </item>
+    
+  </channel>
+</rss>
